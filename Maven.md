@@ -6,7 +6,7 @@
 
 2.maven创建工程 创建web工程的三种方式 1.手动创建java工程添加web组件 2.使用javatoweb插件将java转换为web工程 3.创建idea提供的web模板
 
-3.配置到tomcat 与之前所学一样
+3.配置到tomcat 与之前所学一样1
 
 4.
 
